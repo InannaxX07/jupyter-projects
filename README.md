@@ -1,4 +1,4 @@
-# jupyter-projects
+# Jupyter-projects
 jupyter notebooks for my projects
 
 The Taxi - problem nb uses Gym AI
