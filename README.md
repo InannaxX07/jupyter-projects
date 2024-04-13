@@ -2,3 +2,5 @@
 jupyter notebooks for my projects
 
 The Taxi - problem nb uses Gym AI
+
+Movie recomm system uses MovieLens 100k data - https://drive.google.com/drive/folders/1dzWGwSapE81k_BU-VInOpZ-_55NzZ7UA?usp=drive_link
