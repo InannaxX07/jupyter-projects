@@ -11,6 +11,9 @@ Movie recomm system uses MovieLens 100k data - https://drive.google.com/drive/fo
 The whisper notebook implements the Whisper Hindi ASR model and calculates a WER for kathbath dataset
 
 Link: https://github.com/openai/whisper
+
 Link: https://github.com/AI4Bharat/vistaar
+
 Link: https://github.com/belambert/asr-evaluation
+
 Test Dataset Link: https://asr.iitm.ac.in/Gramvaani/NEW/GV_Eval_3h.tar.gz
